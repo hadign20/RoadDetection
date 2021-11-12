@@ -9,9 +9,8 @@ Implementation of paper **"A New Adaptive Bidirectional Region-of-Interest Detec
 
 
 ### Environment
-OpenCV 3.4.1
-
-Visual Studio 19.0
+- OpenCV 3.4.1
+- Visual Studio 19.0
 
 ### Citation
 ```
