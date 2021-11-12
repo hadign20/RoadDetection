@@ -4,7 +4,7 @@ Implementation of paper "A New Adaptive Bidirectional Region-of-Interest Detecti
 ![result1](https://user-images.githubusercontent.com/24352869/141530616-49b162d2-91ad-408d-b8ad-9b4999d390c2.png)
 ![result3](https://user-images.githubusercontent.com/24352869/141530624-85c98d39-f436-4fdc-a033-4a534933fba4.png)
 ![result7](https://user-images.githubusercontent.com/24352869/141530742-b94f11e9-8dae-4861-bf5f-f5b8551fa91e.png)
-![result3](https://user-images.githubusercontent.com/24352869/141530880-d33f7201-12a2-4935-b922-5ec5150898bb.png)
+![result6](https://user-images.githubusercontent.com/24352869/141530929-62f6d399-18eb-461b-9e49-686baea94256.png)
 
 
 ### Environment
