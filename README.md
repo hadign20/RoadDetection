@@ -1,5 +1,6 @@
 # RoadDetection
-Implementation of paper "A New Adaptive Bidirectional Region-of-Interest Detection Method for Intelligent Traffic Video Analysis".
+Implementation of paper *"A New Adaptive Bidirectional Region-of-Interest Detection Method for Intelligent Traffic Video Analysis"*.
+2020 IEEE Third International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)
 
 ![result1](https://user-images.githubusercontent.com/24352869/141530616-49b162d2-91ad-408d-b8ad-9b4999d390c2.png)
 ![result3](https://user-images.githubusercontent.com/24352869/141530624-85c98d39-f436-4fdc-a033-4a534933fba4.png)
