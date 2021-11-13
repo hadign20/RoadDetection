@@ -12,6 +12,9 @@ Implementation of paper **"A New Adaptive Bidirectional Region-of-Interest Detec
 - OpenCV 3.4.1
 - Visual Studio 19.0
 
+### How to run
+`./roadSurveillance.exe "video_path"`
+
 ### Citation
 ```
 @inproceedings{ghahremannezhad2020new,
