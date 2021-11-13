@@ -13,7 +13,7 @@ Implementation of paper **"A New Adaptive Bidirectional Region-of-Interest Detec
 - Visual Studio 19.0
 
 ### How to run
-`./roadSurveillance.exe "video_path"`
+`.\roadSurveillance.exe "video_path"`
 
 ### Citation
 ```
